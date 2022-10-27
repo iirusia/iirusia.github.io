@@ -44,8 +44,12 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: file:///C:/Users/user/Desktop/%E3%85%81%E3%84%B4%E3%85%87%E3%85%81%E3%84%B4%E3%85%87.jpg (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  매일매일 조금씩 발전하는 한림대학교 정보과학대학 스마트 IOT 최진욱 입니다 so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
+  **매일매일 조금씩 발전하는** 한림대학교 정보과학대학 스마트 IOT <mark>최진욱</mark> 입니다.
+  제작한 사이트 이동 : [여기](http://34.64.218.180:8000/home)를 누르세요  so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  교내 동아리 활동 목록
+	-VIP(과 동아리)
+	-CODA(중앙 동아리)
+  더 많은 활동을 보시려면 [여기](https://github.com/iirusia)를 눌러주세요!
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
