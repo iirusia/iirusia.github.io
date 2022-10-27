@@ -21,11 +21,10 @@ darkmode: false
 
 # Social links
 github_username:  iirusia
-facebook_username: chlwlsdnr12345
-instagram_username: chlwlsdnr12345
+facebook_username: profile.php?id=100004392858547
+instagram_username: jin_woogieee
 pinterest_username: chlwlsdnr12345
-youtube_username: chlwlsdnr12345
-
+youtube_username: channel/UCtIX-Wqi42zpt7pvjlY5IcQ
 # Additional icon links
 additional_links:
 - title: Link name
@@ -43,7 +42,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: file:///C:/Users/user/Desktop/%E3%85%81%E3%84%B4%E3%85%87%E3%85%81%E3%84%B4%E3%85%87.jpg (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
